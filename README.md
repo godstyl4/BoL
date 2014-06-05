@@ -1,2 +1,1 @@
-bol-1
-=====
+Godstyl4 Turkish BoL scrit geliştirmeye hoşgeldiniz.
