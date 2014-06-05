@@ -1,6 +1,5 @@
 --[[
-            Cassiopeia 10. by godstyl4
-            Improved by burn
+            Cassiopeia 1.0 by godstyl4
                    
             -Full combo: Items -> Q -> W -> E -> R
             -otomatik item skil kulanimi ve ignite desteği vardir, ulti için demaj hessaplayici ekledim
